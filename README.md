@@ -1,4 +1,4 @@
-# A lézer rezonétor kontinuitási egyenlete
+# A lézer rezonátor kontinuitási egyenlete
 ## Tari Balázs
 ### Kivonat
 
